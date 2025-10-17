@@ -3,4 +3,4 @@
    **Name:** Uche Blessing
    **Slack Username:** @Adah
    **Project Description:** Deployed NGINX web server on DigitalOcean serving custom HTML page
-   **Server IP:** http://[YOUR_IP_HERE] (will update after deployment)
+   **Server IP:** http:
